@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> PWA to use when you need a spreadsheet in market to check the list of produtos!
+> PWA to use when you need a spreadsheet in market to handle a list of products!
 
 ## Install
 
@@ -30,12 +30,5 @@ yarn workspaces run test
 
 👤 **Vinícius Komninakis**
 
-* Website: www.linkedin/vinicius.komninakis
+* Website: https://www.linkedin.com/in/vinicius-komninakis/
 * Github: [@vNNI](https://github.com/vNNI)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
